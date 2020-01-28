@@ -11,9 +11,11 @@ Projet de la formation ***Développeur d'application - PHP / Symfony***.
   
 ## Liens des 2 Versions ##
 
-[V1](https://github.com/damienvalade/OC-P2-CHALET-CAVIAR/tree/master/Chaletcaviar)  
+[Code V1](https://github.com/damienvalade/OC-P2-CHALET-CAVIAR/tree/master/Chaletcaviar)  
+[Site V1](https://chaletscaviar.damienvalade.fr/)  
 
-[V2](https://github.com/damienvalade/OC-P2-CHALET-CAVIAR/tree/master/TempChaletcaviar)  
+[Code V1](https://github.com/damienvalade/OC-P2-CHALET-CAVIAR/tree/master/Chaletcaviar)  
+[Site V2](https://tempchaletscaviar.damienvalade.fr/vente/)  
   
 ## Descriptif du besoin ##
 
