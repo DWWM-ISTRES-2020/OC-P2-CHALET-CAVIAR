@@ -1,0 +1,13 @@
+2018-10-17T14:37:53+00:00 CRITICAL Uncaught Error: Call to undefined function auxin_get_option() in C:\wamp\www\wordpress\wp-content\plugins\auxin-elements\includes\general-hooks.php:2595
+Stack trace:
+#0 C:\wamp\www\wordpress\wp-content\plugins\auxin-elements\includes\general-hooks.php(2626): auxin_is_maintenance()
+#1 C:\wamp\www\wordpress\wp-includes\class-wp-hook.php(286): auxin_custom_maintenance_page(Object(WP))
+#2 C:\wamp\www\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp\www\wordpress\wp-includes\plugin.php(515): WP_Hook->do_action(Array)
+#4 C:\wamp\www\wordpress\wp-includes\class-wp.php(726): do_action_ref_array('wp', Array)
+#5 C:\wamp\www\wordpress\wp-includes\functions.php(960): WP->main('')
+#6 C:\wamp\www\wordpress\wp-blog-header.php(16): wp()
+#7 C:\wamp\www\wordpress\index.php(17): require('C:\\wamp\\www\\wor...')
+#8 {main}
+  thrown
+

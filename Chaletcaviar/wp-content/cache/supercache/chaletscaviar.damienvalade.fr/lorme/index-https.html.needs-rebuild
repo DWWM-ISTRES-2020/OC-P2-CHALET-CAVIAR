@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://chaletscaviar.damienvalade.fr/xmlrpc.php">
+	<title>L&rsquo;orme &#8211; Chalets et caviar</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Chalets et caviar &raquo; Flux" href="https://chaletscaviar.damienvalade.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chalets et caviar &raquo; Flux des commentaires" href="https://chaletscaviar.damienvalade.fr/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/chaletscaviar.damienvalade.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=590d002e9a5b268fa1acf7199f60a242"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jquery-ui-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/booking-calendar/css/jquery-ui.css?ver=10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdevart-font-awesome-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/booking-calendar/css/font-awesome/font-awesome.css?ver=10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdevart-style-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/booking-calendar/css/style.css?ver=10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdevart-effects-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/booking-calendar/css/effects.css?ver=10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdevartcalendar-style-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/booking-calendar/css/booking.css?ver=10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://chaletscaviar.damienvalade.fr/wp-includes/css/dist/block-library/style.min.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/cookie-notice/css/front.min.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='post_grid_style-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/post-grid/assets/frontend/css/owl.carousel.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='style-woocommerce-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/post-grid/assets/frontend/css/style-woocommerce.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='style.skins-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/post-grid/assets/global/css/style.skins.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='style.layout-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/post-grid/assets/global/css/style.layout.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/css/bootstrap.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='seguente-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/style.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='seguente-responsive-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/css/responsive.css?ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='seguente-body-font-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='seguente-menu-font-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='seguente-logo-font-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=590d002e9a5b268fa1acf7199f60a242' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-291-css'  href='https://chaletscaviar.damienvalade.fr/wp-content/uploads/elementor/css/post-291.css?ver=1560348907' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="https://chaletscaviar.damienvalade.fr/wp-content/plugins/smart-slider-3/library/media/smartslider.min.css?1548982357" media="all" />
+<style type="text/css">.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid RGBA(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2SimpleWhite .6s linear infinite;
+}
+@keyframes n2SimpleWhite {
+    to {transform: rotate(360deg);}
+}</style><script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpdevart = {"ajaxUrl":"https:\/\/chaletscaviar.damienvalade.fr\/wp-admin\/admin-ajax.php","ajaxNonce":"cc713c18a3","required":"est requis.","emailValid":"Entrez l'adresse e-mail valide.","date":"date","hour":"Hour"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/booking-calendar/js/booking.js?ver=10.3'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/booking-calendar/js/script.js?ver=10.3'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?ver=10.3'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/booking-calendar/js/jquery.scrollTo-min.js?ver=10.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/chaletscaviar.damienvalade.fr\/wp-admin\/admin-ajax.php","hideEffect":"slide","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.46'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var post_grid_ajax = {"post_grid_ajaxurl":"https:\/\/chaletscaviar.damienvalade.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/post-grid/assets/frontend/js/scripts.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/post-grid/assets/frontend/js/owl.carousel.min.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/bootstrap.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/jquery.smartmenus.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/jquery.smartmenus.bootstrap.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/imgLiquid.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/modernizr.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/html5.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://chaletscaviar.damienvalade.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://chaletscaviar.damienvalade.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://chaletscaviar.damienvalade.fr/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Le chéne' href='https://chaletscaviar.damienvalade.fr/le-chene/' />
+<link rel='next' title='Le genêt' href='https://chaletscaviar.damienvalade.fr/le-genet/' />
+<link rel="canonical" href="https://chaletscaviar.damienvalade.fr/lorme/" />
+<link rel='shortlink' href='https://chaletscaviar.damienvalade.fr/?p=291' />
+<link rel="alternate" type="application/json+oembed" href="https://chaletscaviar.damienvalade.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchaletscaviar.damienvalade.fr%2Florme%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://chaletscaviar.damienvalade.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchaletscaviar.damienvalade.fr%2Florme%2F&#038;format=xml" />
+<!--Custom Styling-->
+<style media="screen" type="text/css">
+blockquote, address, .page-links a:hover, .post-format-wrap, .sidebar .widget .widget-separator-holder .widget-separator {border-color:#fffacd}
+.meta span i, .more-link, .post-title h3:hover, #main .standard-posts-wrapper .posts-wrapper .post-single .text-holder-full .post-format-wrap p.link-text a:hover, .breadcrumbs .breadcrumbs-wrap ul li a:hover, #article p a, .navigation a, .link-post i.fa, .quote-post i.fa, #article .link-post p.link-text a:hover, .link-post p.link-text a:hover, .quote-post span.quote-author, .post-single ul.link-pages li a strong, .post-info span i, .footer-widget-col ul li a:hover, .sidebar ul.link-pages li.next-link a span, .sidebar ul.link-pages li.previous-link a span, .sidebar ul.link-pages li i, .btn-default:hover, .post-tags a, .post-title h2:hover, a:hover {color:#fffacd}
+button, .page-links a:hover {background:#fffacd}
+.search-submit,.wpcf7-submit,.main-navigation ul ul, .content-boxes .circle, .section-title-right:after, .section-title:after, .content-btn, #comments .form-submit #submit, .post-button, .simple-pagination span, .pagination span, .pagination a {background-color:#fffacd}
+.back-to-top {color:#888888}
+.back-to-top i.fa:hover {color:#fffacd}
+#logo {width:300px }
+#logo {height:30px }
+#logo { margin-top:12px }
+#logo { margin-right:25px }
+#logo {text-transform: uppercase }
+#logo {font-family:Montserrat}
+#logo {font-size:28px }
+#logo {font-weight:700}
+#logo a {color:#000000}
+#logo h5.site-description {font-size:16px }
+#logo .site-description {color:#000000}
+#logo .site-description {text-transform: uppercase}
+#navbar ul li a {font-family:Montserrat}
+#navbar ul li a {font-size:13px}
+#navbar ul li a {text-transform: uppercase;}
+.navbar-nav li a {color:#243743}
+.navbar-nav .dropdown-menu li a {color:#fafafa}
+.dropdown-menu {border-bottom: 5px solid #fafafa}
+.navbar-nav {background-color:#fafafa}
+.dropdown-menu { background:#243743}
+.navbar-nav li a:hover {color:#bdb76b}
+.navbar-nav ul li a:hover, .navbar-nav ul li a:focus, .navbar-nav ul li a.active, .navbar-nav ul li a.active-parent, .navbar-nav ul li.current_page_item a, #menu-navmenu li a:hover { background:#243743}
+.active a { color:#bdb76b !important}
+body {font-family:Montserrat}
+body, p {font-size:14px}
+body {color:#8a949b}
+#header-holder { background-color: #fafafa}
+#header-holder {opacity:1}
+#header-top .top-phone, #header-top p, #header-top a, #header-top i, .top-address { color:#8a949b}
+#header-top { background-color: #fafafa}
+.banner ul li { height:500px;}
+.banner .inner h1 { color:#ffffff}
+.iis-caption-title a { color:#ffffff}
+.banner .inner p { color: #ffffff}
+.iis-caption-content p { color: #ffffff}
+.banner .btn { color: #ffffff}
+.banner .btn { border-color: #ffffff}
+.banner .inner { padding-top: 180px}
+.iis-caption { margin-top: 180px}
+.banner .inner { width: 80%}
+.iis-caption { max-width: 80%}
+.ideal-image-slider .iis-caption .iis-caption-title a { font-size: 44px}
+.ideal-image-slider .iis-caption .iis-caption-title a { line-height: 44px}
+.iis-caption-content p { font-size: 14px}
+.iis-caption { background: #f6f6f6}
+.iis-caption { opacity: 1}
+#footer { background-color:#243743}
+#copyright { background-color:#111111}
+.footer-widget-col h4 { color:#ffffff}
+.footer-widget-col h4 { border-bottom: 4px solid #fafafa}
+.footer-widget-col a, .footer-widget-col { color:#ffffff}
+.footer-widget-col ul li { border-bottom: 1px solid #fafafa}
+#social-bar-footer ul li a i { color:#efefef}
+.home-blog {background: none repeat scroll 0 0 #eaeaea}
+.from-blog h3 {color:#243743;}
+.from-blog h2 {color:#243743;}
+.from-blog {background: none repeat scroll 0 0 #eaeaea;}
+.blog-top-image {background: none repeat scroll 0 0 #fafafa;}
+.blog-top-image h1.section-title, .blog-top-image h1.section-title-right {color:#243743;}
+.from-blog a.blog-read-more {background-color: #fffacd;}
+#features { background-color:#fafafa;}
+h4.sub-title, #features p { color:#888888;}
+#features .section-title, #features h3 { color:#243743;}
+#features .feature i.fa { color:#ffffff;}
+#features .feature .circle i.fa { font-size:32px;}
+#features .feature .circle { background-color:#243743;}
+.about h2, .about h2 a {color:#ffffff;}
+.about {background: none repeat scroll 0 0 #8a949b;}
+.about a.about-link {background-color: #28b78d;}
+#services { background-color:#8a949b;}
+#services h3, #services h3 a, .services-left .service .service-head h3 a { color:#ffffff;}
+#services p { color:#e0e0e0;}
+.services i.fa, .services-left .circle i.fa { color:#e0e0e0;}
+.get-in-touch { background-color: #fafafa}
+.get-in-touch h2.boxtitle, .get-in-touch h2.boxtitle a {color:#243743;}
+.get-in-touch h4.sub-title, .get-in-touch p {color:#888888;}
+.git-link { background-color: #fffacd}
+.social { background-color: #fafafa}
+</style>
+<link rel="icon" href="https://chaletscaviar.damienvalade.fr/wp-content/uploads/2018/10/cropped-chalet-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://chaletscaviar.damienvalade.fr/wp-content/uploads/2018/10/cropped-chalet-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://chaletscaviar.damienvalade.fr/wp-content/uploads/2018/10/cropped-chalet-180x180.png" />
+<meta name="msapplication-TileImage" content="https://chaletscaviar.damienvalade.fr/wp-content/uploads/2018/10/cropped-chalet-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			#tab-sale>* span,
+#tab-loc>* span{
+	font-size : 15px !important;
+	font-style: normal !important;
+	color : #54595f !important;
+	font-family: Montserrat	  !important;
+}
+
+#tab-sale>* h2,
+#tab-loc>* h2{
+	font-family: Montserrat	  !important;
+}
+
+.n2-ow,
+body>* li,
+body>* a,
+body>* h1,
+body>* h2,
+body>* p{
+	font-family: Montserrat	  !important;
+}
+
+body>* h1,
+body>* h2,
+body>* h3{
+	color : black !important;
+	text-align : center;
+}
+
+span{
+	color : black !important;
+}
+
+.wrapper>div>ul>li{
+	    list-style : none;
+}
+
+.fa{
+	width:20px;
+	text-align : center;
+}
+
+.wpdevart-booking-form{
+	display :none;
+}
+
+.excerpt{
+	text-align:left;
+}
+
+.read_more > span > i,
+.read_more{
+	background-color : #bdb76b;
+	color : white;
+	text-align : center !important;
+	padding : 5px !important;
+  font-weight: bold;
+}
+
+.layer-content>.wrapper>div{
+	    padding: 0 !important;
+}
+
+.item{
+    border: 3px #bdb76b solid;
+}
+
+@media screen and (min-width: 485px) {
+	
+	.layer-content>.wrapper>div>ul{
+	padding: 0 !important;
+	margin: 0 0 0 20px !important;
+}
+	
+	.wrapper>div>h3{
+	    font-size: 1.2rem !important;
+	padding: 0 0;
+}
+	
+	.wrapper>div>ul>li{
+	    line-height: 1.5em!important;
+}
+
+    .item{
+	  width: 400px !important;
+	  height :180px !important;
+    }
+
+.layer-media>a>img{
+  width:100% !important;
+	height : 100% !important;
+}
+
+.layer-media{
+	float: left;
+  width: 50% !important;
+	height :100% !important;
+}
+
+.layer-content{
+	  float: right;
+	  width: 50% !important;
+	  height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+}
+@media screen and (min-width: 1319px) {
+    .item{
+	  width: 600px !important;
+	  height :220px !important;
+    }
+}
+
+
+/* ************************  modif début ****************** */
+
+.demi-colonne, .colonne {
+	float: left;
+	position: relative;
+	padding: 0.65rem;
+	width:100%;
+	-webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box
+}
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.wpcf7 input[type="submit"]{
+	display : block !important;
+	background-color : #bdb76b !important;
+	color : white !important;
+}
+
+/**---------------- Media query ----------------**/
+@media only screen and (min-width: 48em) { 
+	.demi-colonne {
+		width: 50%;
+	}
+}
+*
+
+.wpcf7 select,
+.wpcf7 input[type="tel"], .wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 textarea {
+	width: 100%;
+	padding: 8px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	-webkit-box-sizing: border-box;
+	 -moz-box-sizing: border-box;
+	      box-sizing: border-box
+}
+
+
+.wpcf7-response-output{
+    width: 100%;
+    text-align: center;
+    margin: 0 !important;
+    padding: 5px !important;
+	  border-color: white;
+}
+
+.wpcf7-display-none{
+	display: none;
+}
+
+.wpcf7-mail-sent-ok{
+	display: inline-block !important;
+}
+
+/* ************************ modif fin ****************** */
+
+
+@media screen and (max-width: 640px) {
+	.n2-ow{
+		font-size : 10px !important;
+	}
+}		</style>
+	<script type="text/javascript">(function(){var N=this;N.N2_=N.N2_||{r:[],d:[]},N.N2R=N.N2R||function(){N.N2_.r.push(arguments)},N.N2D=N.N2D||function(){N.N2_.d.push(arguments)}}).call(window);if(!window.n2jQuery){window.n2jQuery={ready:function(cb){console.error('n2jQuery will be deprecated!');N2R(['$'],cb)}}}window.nextend={localization:{},ready:function(cb){console.error('nextend.ready will be deprecated!');N2R('documentReady',function($){cb.call(window,$)})}};nextend.fontsLoaded=false;nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true};var requiredFonts=["Roboto:n3","Roboto:n4"],fontData={google:{families:["Roboto:300,400:latin"]},active:function(){nextend.fontsLoadedActive()},inactive:function(){nextend.fontsLoadedActive()},fontactive:function(f,s){fontData.resolveFont(f+':'+s)},fontinactive:function(f,s){fontData.resolveFont(f+':'+s)},resolveFont:function(n){for(var i=requiredFonts.length-1;i>=0;i--){if(requiredFonts[i]===n){requiredFonts.splice(i,1);break}}if(!requiredFonts.length)nextend.fontsLoadedActive()}};if(typeof WebFontConfig!=='undefined'&&typeof WebFont==='undefined'){var _WebFontConfig=WebFontConfig;for(var k in WebFontConfig){if(k=='active'){fontData.active=function(){nextend.fontsLoadedActive();_WebFontConfig.active()}}else if(k=='inactive'){fontData.inactive=function(){nextend.fontsLoadedActive();_WebFontConfig.inactive()}}else if(k=='fontactive'){fontData.fontactive=function(f,s){fontData.resolveFont(f+':'+s);_WebFontConfig.fontactive.apply(this,arguments)}}else if(k=='fontinactive'){fontData.fontinactive=function(f,s){fontData.resolveFont(f+':'+s);_WebFontConfig.fontinactive.apply(this,arguments)}}else if(k=='google'){if(typeof WebFontConfig.google.families!=='undefined'){for(var i=0;i<WebFontConfig.google.families.length;i++){fontData.google.families.push(WebFontConfig.google.families[i])}}}else{fontData[k]=WebFontConfig[k]}}}fontData.classes=true;fontData.events=true;if(typeof WebFont==='undefined'){window.WebFontConfig=fontData}else{WebFont.load(fontData)}</script><script type="text/javascript" src="https://chaletscaviar.damienvalade.fr/wp-content/plugins/smart-slider-3/nextend/media/dist/n2.min.js?1548982358"></script>
+<script type="text/javascript" src="https://chaletscaviar.damienvalade.fr/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min.js?1548982358"></script>
+<script type="text/javascript" src="https://chaletscaviar.damienvalade.fr/wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min.js?1548982357"></script>
+<script type="text/javascript" src="https://chaletscaviar.damienvalade.fr/wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js?1548982357"></script>
+<script type="text/javascript" src="https://chaletscaviar.damienvalade.fr/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-webfontloader.min.js?1548982359"></script>
+<script type="text/javascript">N2R('documentReady',function($){nextend.fontsDeferred=$.Deferred();if(nextend.fontsLoaded){nextend.fontsDeferred.resolve()}else{nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true;nextend.fontsDeferred.resolve()};var intercalCounter=0;nextend.fontInterval=setInterval(function(){if(intercalCounter>3||document.documentElement.className.indexOf('wf-active')!==-1){nextend.fontsLoadedActive();clearInterval(nextend.fontInterval)}intercalCounter++},1000)}N2R(["nextend-frontend","smartslider-frontend","smartslider-simple-type-frontend"],function(){new N2Classes.SmartSliderSimple('#n2-ss-6',{"admin":false,"translate3d":1,"callbacks":"","background.video.mobile":1,"align":"normal","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"playWhenVisibleAt":0.5,"responsive":{"desktop":1,"tablet":1,"mobile":1,"onResizeEnabled":true,"type":"auto","downscale":1,"upscale":1,"minimumHeight":0,"maximumHeight":3000,"maximumSlideWidth":3000,"maximumSlideWidthLandscape":3000,"maximumSlideWidthTablet":3000,"maximumSlideWidthTabletLandscape":3000,"maximumSlideWidthMobile":3000,"maximumSlideWidthMobileLandscape":3000,"maximumSlideWidthConstrainHeight":0,"forceFull":0,"forceFullOverflowX":"body","forceFullHorizontalSelector":"","constrainRatio":1,"verticalOffsetSelectors":"","decreaseSliderHeight":0,"focusUser":0,"focusAutoplay":0,"deviceModes":{"desktopPortrait":1,"desktopLandscape":0,"tabletPortrait":1,"tabletLandscape":0,"mobilePortrait":1,"mobileLandscape":0},"normalizedDeviceModes":{"unknownUnknown":["unknown","Unknown"],"desktopPortrait":["desktop","Portrait"],"desktopLandscape":["desktop","Portrait"],"tabletPortrait":["tablet","Portrait"],"tabletLandscape":["tablet","Portrait"],"mobilePortrait":["mobile","Portrait"],"mobileLandscape":["mobile","Portrait"]},"verticalRatioModifiers":{"unknownUnknown":1,"desktopPortrait":1,"desktopLandscape":1,"tabletPortrait":1,"tabletLandscape":1,"mobilePortrait":1,"mobileLandscape":1},"minimumFontSizes":{"desktopPortrait":4,"desktopLandscape":4,"tabletPortrait":4,"tabletLandscape":4,"mobilePortrait":4,"mobileLandscape":4},"ratioToDevice":{"Portrait":{"tablet":0.6999999999999999555910790149937383830547332763671875,"mobile":0.5},"Landscape":{"tablet":0,"mobile":0}},"sliderWidthToDevice":{"desktopPortrait":1200,"desktopLandscape":1200,"tabletPortrait":840,"tabletLandscape":0,"mobilePortrait":600,"mobileLandscape":0},"basedOn":"combined","orientationMode":"width_and_height","overflowHiddenPage":0,"desktopPortraitScreenWidth":1200,"tabletPortraitScreenWidth":800,"mobilePortraitScreenWidth":440,"tabletLandscapeScreenWidth":800,"mobileLandscapeScreenWidth":440},"controls":{"scroll":0,"drag":1,"touch":"horizontal","keyboard":1,"tilt":0},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":0,"start":1,"duration":8000,"autoplayToSlide":-1,"autoplayToSlideIndex":-1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0}},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"initCallbacks":["N2D(\"SmartSliderWidgetArrowImage\",function(i,e){function s(e,s,t,h){this.slider=e,this.slider.started(i.proxy(this.start,this,s,t,h))}return s.prototype.start=function(e,s,t){return this.slider.sliderElement.data(\"arrow\")?!1:(this.slider.sliderElement.data(\"arrow\",this),this.deferred=i.Deferred(),this.slider.sliderElement.on(\"SliderDevice\",i.proxy(this.onDevice,this)).trigger(\"addWidget\",this.deferred),this.previous=i(\"#\"+this.slider.elementID+\"-arrow-previous\").on(\"click\",i.proxy(function(i){i.stopPropagation(),this.slider[n2const.rtl.previous]()},this)),this.previousResize=this.previous.find(\".n2-resize\"),0===this.previousResize.length&&(this.previousResize=this.previous),this.next=i(\"#\"+this.slider.elementID+\"-arrow-next\").on(\"click\",i.proxy(function(i){i.stopPropagation(),this.slider[n2const.rtl.next]()},this)),this.nextResize=this.next.find(\".n2-resize\"),0===this.nextResize.length&&(this.nextResize=this.next),this.desktopRatio=e,this.tabletRatio=s,this.mobileRatio=t,void i.when(this.previous.n2imagesLoaded(),this.next.n2imagesLoaded()).always(i.proxy(this.loaded,this)))},s.prototype.loaded=function(){this.previous.css(\"display\",\"inline-block\"),this.previousResize.css(\"display\",\"inline-block\"),this.previousWidth=this.previousResize.width(),this.previousHeight=this.previousResize.height(),this.previousResize.css(\"display\",\"\"),this.previous.css(\"display\",\"\"),this.next.css(\"display\",\"inline-block\"),this.nextResize.css(\"display\",\"inline-block\"),this.nextWidth=this.nextResize.width(),this.nextHeight=this.nextResize.height(),this.nextResize.css(\"display\",\"\"),this.next.css(\"display\",\"\"),this.previousResize.find(\"img\").css(\"width\",\"100%\"),this.nextResize.find(\"img\").css(\"width\",\"100%\"),this.onDevice(null,{device:this.slider.responsive.getDeviceMode()}),this.deferred.resolve()},s.prototype.onDevice=function(i,e){var s=1;switch(e.device){case\"tablet\":s=this.tabletRatio;break;case\"mobile\":s=this.mobileRatio;break;default:s=this.desktopRatio}this.previousResize.width(this.previousWidth*s),this.previousResize.height(this.previousHeight*s),this.nextResize.width(this.nextWidth*s),this.nextResize.height(this.nextHeight*s)},s});","new N2Classes.SmartSliderWidgetArrowImage(this, 1, 0.6999999999999999555910790149937383830547332763671875, 0.5);","N2D(\"SmartSliderWidgetThumbnailDefault\",function(t,i){\"use strict\";function s(i,s){this.slider=i,this.slider.started(t.proxy(this.start,this,s))}var e=!1,r={videoDark:'<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><circle cx=\"24\" cy=\"24\" r=\"24\" fill=\"#000\" opacity=\".6\"\/><path fill=\"#FFF\" d=\"M19.8 32c-.124 0-.247-.028-.36-.08-.264-.116-.436-.375-.44-.664V16.744c.005-.29.176-.55.44-.666.273-.126.592-.1.84.07l10.4 7.257c.2.132.32.355.32.595s-.12.463-.32.595l-10.4 7.256c-.14.1-.31.15-.48.15z\"\/><\/svg>'};s.prototype.start=function(i){if(this.slider.sliderElement.data(\"thumbnail\"))return!1;this.slider.sliderElement.data(\"thumbnail\",this),this.parameters=t.extend({captionSize:0,minimumThumbnailCount:1.5,invertGroupDirection:0},i),this.ratio=1,this.hidden=!1,this.forceHidden=!1,this.forceHiddenCB=null,this.itemPerPane=1,this.currentI=0,this.offset=0,this.horizontal={prop:\"width\",Prop:\"Width\",sideProp:n2const.rtl.left,invProp:\"height\",axis:\"x\",outerProp:\"outerWidth\"},this.vertical={prop:\"height\",Prop:\"Height\",sideProp:\"top\",invProp:\"width\",axis:\"y\",outerProp:\"outerHeight\"},this.group=parseInt(i.group),this.orientation=i.orientation,\"vertical\"===this.orientation&&(this.goToDot=this._goToDot),this.outerBar=this.slider.sliderElement.find(\".nextend-thumbnail-default\"),this.bar=this.outerBar.find(\".nextend-thumbnail-inner\"),this.scroller=this.bar.find(\".nextend-thumbnail-scroller\"),this.$groups=t();for(var s=0;s<this.group;s++)this.$groups=this.$groups.add(t('<div class=\"nextend-thumbnail-scroller-group\"><\/div>').appendTo(this.scroller));var e=\"universalclick\";if(\"mouseenter\"===i.action?e=\"mouseenter\":this.slider.hasTouch()&&(e=\"n2click\"),this.renderThumbnails(),this.dots=this.scroller.find(\".nextend-thumbnail-scroller-group > div\").on(e,t.proxy(this.onDotClick,this)),this.images=this.dots.find(\".n2-ss-thumb-image\"),n2const.rtl.isRtl?(this.previous=this.outerBar.find(\".nextend-thumbnail-next\").on(\"click\",t.proxy(this.previousPane,this)),this.next=this.outerBar.find(\".nextend-thumbnail-previous\").on(\"click\",t.proxy(this.nextPane,this))):(this.previous=this.outerBar.find(\".nextend-thumbnail-previous\").on(\"click\",t.proxy(this.previousPane,this)),this.next=this.outerBar.find(\".nextend-thumbnail-next\").on(\"click\",t.proxy(this.nextPane,this))),this.slider.hasTouch()&&(N2Classes.EventBurrito(this.outerBar.get(0),{mouse:this.slider.parameters.controls.drag,axis:\"vertical\"===this.orientation?\"y\":\"x\",start:t.proxy(function(){this._touch={start:parseInt(this.scroller.css(this[this.orientation].sideProp)),max:this.bar[this[this.orientation].prop]()-this.scroller[this[this.orientation].outerProp](!0)},this._touch.current=this._touch.start},this),move:t.proxy(function(t,i,s,e,r){return this._touch.current=Math.max(this._touch.max,Math.min(0,this._touch.start+s[this[this.orientation].axis])),this.scroller.css(this[this.orientation].sideProp,this._touch.current),Math.abs(s[this[this.orientation].axis])>5},this),end:t.proxy(function(t,i,s,e,r){40>Math.abs(this._touch.start-this._touch.current)?this.resetPane():this._touch.current>this._touch.start?this.previousPane():this.nextPane(),10>Math.abs(s.x)&&10>Math.abs(s.y)?this.onTap(t):nextend.preventClick(),delete this._touch},this)}),this.slider.parameters.controls.drag||this.outerBar.on(\"click\",t.proxy(this.onTap,this))),this.thumbnailDimension={widthLocal:this.dots.width(),width:this.dots.outerWidth(!0),height:this.dots.outerHeight(!0),widthBorder:parseInt(this.dots.css(\"borderLeftWidth\"))+parseInt(this.dots.css(\"borderRightWidth\")),heightBorder:parseInt(this.dots.css(\"borderTopWidth\"))+parseInt(this.dots.css(\"borderBottomWidth\"))},this.thumbnailDimension.widthMargin=this.thumbnailDimension.width-this.dots.outerWidth(),this.thumbnailDimension.heightMargin=this.thumbnailDimension.height-this.dots.outerHeight(),this.imageDimension={width:this.images.outerWidth(!0),height:this.images.outerHeight(!0)},this.sideDimension=.25*this.thumbnailDimension[this[this.orientation].prop],\"horizontal\"===this.orientation?(this.scroller.height(this.thumbnailDimension.height*this.group),this.bar.height(this.scroller.outerHeight(!0))):(this.scroller.width(this.thumbnailDimension.width*this.group),this.bar.width(this.scroller.outerWidth(!0))),this.slider.sliderElement.on({BeforeVisible:t.proxy(this.onReady,this),sliderSwitchTo:t.proxy(this.onSlideSwitch,this)}),this.slider.firstSlideReady.done(t.proxy(this.onFirstSlideSet,this)),0==i.overlay){var r=!1;switch(i.area){case 1:r=\"Top\";break;case 12:r=\"Bottom\";break;case 5:r=\"Left\";break;case 8:r=\"Right\"}r&&(this.offset=parseFloat(this.outerBar.data(\"offset\")),this.slider.responsive.addStaticMargin(r,this))}},s.prototype.renderThumbnails=function(){var s;this.parameters.invertGroupDirection&&(s=Math.ceil(this.slider.realSlides.length\/this.group));for(var e=0;e<this.slider.realSlides.length;e++){var o=this.slider.realSlides[e],h=t('<div class=\"'+this.parameters.slideStyle+' n2-ow\" style=\"'+this.parameters.containerStyle+'\"><\/div>');if(this.parameters.invertGroupDirection?h.appendTo(this.$groups.eq(Math.floor(e\/s))):h.appendTo(this.$groups.eq(e%this.group)),h.data(\"slide\",o),o.$thumbnail=h,this.parameters.thumbnail!==i){var n=o.getThumbnailType(),a=r[n]!==i?r[n]:\"\";t('<div class=\"n2-ss-thumb-image n2-ow\" style=\"width:'+this.parameters.thumbnail.width+\"px; height:\"+this.parameters.thumbnail.height+\"px;\"+this.parameters.thumbnail.code+'\">'+a+\"<\/div>\").css(\"background-image\",\"url('\"+o.getThumbnail()+\"')\").appendTo(h)}if(this.parameters.caption!==i){var l=t('<div class=\"'+this.parameters.caption.styleClass+\"n2-ss-caption n2-ow n2-caption-\"+this.parameters.caption.placement+'\" style=\"'+this.parameters.caption.style+'\"><\/div>');switch(this.parameters.caption.placement){case\"before\":l.prependTo(h);break;default:l.appendTo(h)}if(this.parameters.title!==i&&l.append('<div class=\"n2-ow '+this.parameters.title.font+'\">'+o.getTitle()+\"<\/div>\"),this.parameters.description!==i){var d=o.getDescription();d&&l.append('<div class=\"n2-ow '+this.parameters.description.font+'\">'+d+\"<\/div>\")}}}},s.prototype.onTap=function(i){e||(t(i.target).trigger(\"n2click\"),e=!0,setTimeout(function(){e=!1},500))},s.prototype.onFirstSlideSet=function(t){this.activateDots(t.index),this.goToDot(t.index)},s.prototype.onReady=function(){this.slider.sliderElement.on(\"SliderResize\",t.proxy(this.onSliderResize,this)),this.onSliderResize()},s.prototype.onSliderResize=function(){null!==this.forceHiddenCB&&this.forceHiddenCB.call(this),this.adjustScrollerSize();var t=this.slider.currentSlide.index;this.activateDots(t),this.goToDot(t)},s.prototype.adjustScrollerSize=function(){var t=this[this.orientation].prop,i=Math.ceil(this.dots.length\/this.group)*this.thumbnailDimension[t]*this.ratio,s=this.scroller[\"outer\"+this[this.orientation].Prop]()-this.scroller[t](),e=this.slider.dimensions[\"thumbnail\"+t];e>=i+s?this.scroller[t](e-s):this.scroller[t](i),\"horizontal\"===this.orientation?this.scroller.height(this.dots.outerHeight(!0)*this.group):this.scroller.width(this.dots.outerWidth(!0)*this.group)};var o=!1;return s.prototype.onDotClick=function(i){o||(this.slider.directionalChangeToReal(t(i.currentTarget).data(\"slide\").index),o=!0),setTimeout(t.proxy(function(){o=!1},this),400)},s.prototype.onSlideSwitch=function(t,i,s){this.activateDots(i),this.goToDot(s)},s.prototype.activateDots=function(t){this.dots.removeClass(\"n2-active\");for(var i=this.slider.slides[t].slides,s=0;i.length>s;s++)i[s].$thumbnail.addClass(\"n2-active\")},s.prototype.resetPane=function(){this.goToDot(this.currentI)},s.prototype.previousPane=function(){this.goToDot(this.currentI-this.itemPerPane*this.group)},s.prototype.nextPane=function(){this.goToDot(this.currentI+this.itemPerPane*this.group)},s.prototype.goToDot=function(t){this.tween&&this.tween.progress()<1&&this.tween.pause();var i=this[this.orientation],s=1,e=this.slider.dimensions[\"thumbnail\"+i.prop],r=this.sideDimension,o=e-2*r,h=o\/this.thumbnailDimension[i.prop];if(this.parameters.minimumThumbnailCount>=h&&(r=.1*e,o=e-2*r,s=o\/(this.parameters.minimumThumbnailCount*this.thumbnailDimension[i.prop]),h=o\/(this.thumbnailDimension[i.prop]*s)),this.ratio!==s){var n={};n[i.prop]=parseInt(this.thumbnailDimension[i.prop]*s-this.thumbnailDimension[i.prop+\"Margin\"]-this.thumbnailDimension[i.prop+\"Border\"]),n[i.invProp]=parseInt((this.thumbnailDimension[i.invProp]-this.parameters.captionSize)*s-this.thumbnailDimension[i.prop+\"Margin\"]+this.parameters.captionSize-this.thumbnailDimension[i.invProp+\"Border\"]),this.dots.css(n);var a=this.dots.width()\/this.thumbnailDimension.widthLocal;n={},n[i.prop]=Math.ceil(this.imageDimension[i.prop]*a),n[i.invProp]=Math.ceil(this.imageDimension[i.invProp]*a),this.images.css(n),this.bar.css(i.invProp,\"auto\"),this.ratio=s,this.slider.responsive.doNormalizedResize(),this.adjustScrollerSize()}h=Math.floor(h),t=Math.max(0,Math.min(this.dots.length-1,t));var l,d={};l=this.parameters.invertGroupDirection?Math.floor(t%Math.ceil(this.dots.length\/this.group)\/h):Math.floor(t\/this.group\/h);var p=-(this.scroller[\"outer\"+i.Prop]()-e);l===Math.floor((this.dots.length-1)\/this.group\/h)?(d[i.sideProp]=-(l*h*this.thumbnailDimension[i.prop]*s),0===l?this.previous.removeClass(\"n2-active\"):this.previous.addClass(\"n2-active\"),this.next.removeClass(\"n2-active\")):l>0?(d[i.sideProp]=-(l*h*this.thumbnailDimension[i.prop]*s-r),this.previous.addClass(\"n2-active\"),this.next.addClass(\"n2-active\")):(d[i.sideProp]=0,this.previous.removeClass(\"n2-active\"),this.next.addClass(\"n2-active\")),p>=d[i.sideProp]&&(d[i.sideProp]=p,this.next.removeClass(\"n2-active\")),this.tween=NextendTween.to(this.scroller,.5,d),this.currentI=t,this.itemPerPane=h},s.prototype._goToDot=function(i){if(!this.forceHidden){this.tween&&this.tween.progress()<1&&this.tween.pause();var s=this[this.orientation],e=this.slider.dimensions[\"thumbnail\"+s.prop],r=(e-2*this.sideDimension)\/this.thumbnailDimension[s.prop];if(0===e||0!==e&&this.parameters.minimumThumbnailCount-.5>r?this.hidden||(\"horizontal\"===this.orientation?this.outerBar.css(\"height\",0):this.outerBar.css(\"width\",0),this.hidden=!0,this.forceHidden=!0,setTimeout(t.proxy(function(){this.forceHiddenCB=function(){this.forceHiddenCB=null,this.forceHidden=!1}},this),300),this.slider.responsive.doNormalizedResize()):this.hidden&&r>=this.parameters.minimumThumbnailCount+.5&&(this.hidden=!1,\"horizontal\"===this.orientation?this.outerBar.css(\"height\",\"\"):this.outerBar.css(\"width\",\"\"),this.slider.responsive.doNormalizedResize()),!this.hidden){r=Math.floor(r),i=Math.max(0,Math.min(this.dots.length-1,i));var o,h={};o=this.parameters.invertGroupDirection?Math.floor(i%Math.ceil(this.dots.length\/this.group)\/r):Math.floor(i\/this.group\/r);var n=-(this.scroller[\"outer\"+s.Prop]()-e);o===Math.floor((this.dots.length-1)\/this.group\/r)?(h[s.sideProp]=-(o*r*this.thumbnailDimension[s.prop]),0===o?this.previous.removeClass(\"n2-active\"):this.previous.addClass(\"n2-active\"),this.next.removeClass(\"n2-active\")):o>0?(h[s.sideProp]=-(o*r*this.thumbnailDimension[s.prop]-this.sideDimension),this.previous.addClass(\"n2-active\"),this.next.addClass(\"n2-active\")):(h[s.sideProp]=0,this.previous.removeClass(\"n2-active\"),this.next.addClass(\"n2-active\")),n>=h[s.sideProp]&&(h[s.sideProp]=n,this.next.removeClass(\"n2-active\")),this.tween=NextendTween.to(this.scroller,.5,h)}this.currentI=i,this.itemPerPane=r}},s.prototype.isVisible=function(){return this.outerBar.is(\":visible\")},s.prototype.getSize=function(){return\"horizontal\"===this.orientation?this.outerBar.height()+this.offset:this.outerBar.width()+this.offset},s});","new N2Classes.SmartSliderWidgetThumbnailDefault(this, {\"overlay\":1,\"area\":12,\"action\":\"click\",\"minimumThumbnailCount\":1.5,\"group\":1,\"invertGroupDirection\":0,\"captionSize\":0,\"orientation\":\"horizontal\",\"slideStyle\":\"n2-style-0d7e6147d938756e488febb9fea88b5d-dot \",\"containerStyle\":\"width: 100px; height: 60px;\",\"thumbnail\":{\"width\":100,\"height\":60,\"code\":\"background-size: cover;\"}});"],"allowBGImageAttachmentFixed":false,"bgAnimationsColor":"RGBA(51,51,51,1)","bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":0,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0})})});</script></head>
+<body class="post-template post-template-elementor_header_footer single single-post postid-291 single-format-standard cookies-not-set elementor-default elementor-template-full-width elementor-page elementor-page-291">
+<div id="grid-container">
+	<div class="clear"></div>
+							<div id="header-holder">
+					<div id ="header-wrap">
+      			<nav class="navbar navbar-default">
+					<div id="logo">
+													<a href="https://chaletscaviar.damienvalade.fr/">Chalets et caviar</a>
+																	</div>
+        			<div class="navbar-header">
+            			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              			<span class="sr-only">Toggle navigation</span>
+              			<span class="icon-bar"></span>
+              			<span class="icon-bar"></span>
+              			<span class="icon-bar"></span>
+            			</button>
+          			</div><!--navbar-header-->
+          			<div id="navbar" class="navbar-collapse collapse">
+					<ul id="menu-chalets-et-caviar" class="nav navbar-nav"><li id="menu-item-489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-489"><a title="Accueil" href="https://chaletscaviar.damienvalade.fr">Accueil</a></li>
+<li id="menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-494 dropdown"><a title="Location" href="https://chaletscaviar.damienvalade.fr/location/" class="dropdown-toggle" aria-haspopup="true">Location <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-291 current_page_item menu-item-498 active"><a title="L&#039;orme" href="https://chaletscaviar.damienvalade.fr/lorme/">L&rsquo;orme</a></li>
+	<li id="menu-item-958" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-958"><a title="Le châtaignier" href="https://chaletscaviar.damienvalade.fr/chataignier/">Le châtaignier</a></li>
+	<li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a title="Le chéne" href="https://chaletscaviar.damienvalade.fr/le-chene/">Le chéne</a></li>
+	<li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-959"><a title="Le chèvrefeuille" href="https://chaletscaviar.damienvalade.fr/chevrefeuille/">Le chèvrefeuille</a></li>
+	<li id="menu-item-957" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-957"><a title="Le pin sylvestre" href="https://chaletscaviar.damienvalade.fr/pin-sylvestre/">Le pin sylvestre</a></li>
+</ul>
+</li>
+<li id="menu-item-490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-490 dropdown"><a title="Vente" href="https://chaletscaviar.damienvalade.fr/vente/" class="dropdown-toggle" aria-haspopup="true">Vente <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-491"><a title="L&#039;oeillet" href="https://chaletscaviar.damienvalade.fr/loeillet/">L&rsquo;oeillet</a></li>
+	<li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492"><a title="L&#039;iris" href="https://chaletscaviar.damienvalade.fr/liris/">L&rsquo;iris</a></li>
+	<li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a title="Le genêt" href="https://chaletscaviar.damienvalade.fr/le-genet/">Le genêt</a></li>
+	<li id="menu-item-493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a title="L&#039;Edelweiss" href="https://chaletscaviar.damienvalade.fr/ledelweiss/">L&rsquo;Edelweiss</a></li>
+	<li id="menu-item-496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496"><a title="Le perce neige" href="https://chaletscaviar.damienvalade.fr/le-perce-neige/">Le perce neige</a></li>
+</ul>
+</li>
+<li id="menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a title="Le livre d&#039;or" href="https://chaletscaviar.damienvalade.fr/le-livre-dor/">Le livre d&rsquo;or</a></li>
+<li id="menu-item-502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502"><a title="Nous contacter" href="https://chaletscaviar.damienvalade.fr/nous-contacter/">Nous contacter</a></li>
+</ul>					
+          			</div><!--/.nav-collapse -->
+      			</nav>
+			</div><!--header-wrap-->
+		</div><!--header-holder-->		<div data-elementor-type="post" data-elementor-id="291" class="elementor elementor-291" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<main data-id="902301e" class="elementor-element elementor-element-902301e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="7961bec" class="elementor-element elementor-element-7961bec elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<header data-id="85c5784" class="elementor-element elementor-element-85c5784 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="dae6f6a" class="elementor-element elementor-element-dae6f6a elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="cd3bd10" class="elementor-element elementor-element-cd3bd10 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div data-id="95264e2" class="elementor-element elementor-element-95264e2 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xl">Chalet l'orme</h1>		</div>
+				</div>
+				<div data-id="0333067" class="elementor-element elementor-element-0333067 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</header>
+				<div data-id="5ba7f54" class="elementor-element elementor-element-5ba7f54 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="4e252ce" class="elementor-element elementor-element-4e252ce elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="6a3dd84" class="elementor-element elementor-element-6a3dd84 elementor-widget elementor-widget-smartslider" data-element_type="smartslider.default">
+				<div class="elementor-widget-container">
+			<div class="n2-section-smartslider "><style>div#n2-ss-6{width:1200px;float:left;margin:0px 0px 0px 0px;}html[dir="rtl"] div#n2-ss-6{float:right;}div#n2-ss-6 .n2-ss-slider-1{position:relative;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;height:500px;border-style:solid;border-width:0px;border-color:#3e3e3e;border-color:RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;}div#n2-ss-6 .n2-ss-slider-background-video-container{position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;}div#n2-ss-6 .n2-ss-slider-2{position:relative;width:100%;height:100%;}.x-firefox div#n2-ss-6 .n2-ss-slider-2{opacity:0.99999;}div#n2-ss-6 .n2-ss-slider-3{position:relative;width:100%;height:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0);z-index:10;}div#n2-ss-6 .n2-ss-slide-backgrounds,div#n2-ss-6 .n2-ss-slider-3 > .n-particles-js-canvas-el,div#n2-ss-6 .n2-ss-slider-3 > .n2-ss-divider{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-6 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-6 .n2-ss-slider-3 > .n-particles-js-canvas-el{z-index:12;}div#n2-ss-6 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-6 .n2-ss-slide{position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;display:block;-webkit-backface-visibility:hidden;}div#n2-ss-6 .n2-ss-layers-container{position:relative;width:1200px;height:500px;}div#n2-ss-6 .n2-ss-parallax-clip > .n2-ss-layers-container{position:absolute;right:0;}div#n2-ss-6 .n2-ss-slide{perspective:1500px;}div#n2-ss-6[data-ie] .n2-ss-slide{perspective:none;transform:perspective(1500px);}div#n2-ss-6 .n2-ss-slide-active{z-index:21;}div#n2-ss-6 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:20;}div#n2-ss-6 .nextend-arrow img{position:relative;min-height:0;min-width:0;vertical-align:top;width:auto;height:auto;max-width:100%;max-height:100%;display:inline;}div#n2-ss-6 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-6 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-6 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-6 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-6 .nextend-arrow-animated > div{position:relative;}div#n2-ss-6 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-6 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-6 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;left:0;}div#n2-ss-6 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{left:-100%;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div{left:100%;}div#n2-ss-6 .nextend-arrow.nextend-arrow-animated-horizontal:HOVER .n2-active{left:0;}div#n2-ss-6 .nextend-arrow-animated-vertical > div{transition:all 0.4s;top:0;}div#n2-ss-6 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-6 .nextend-arrow-animated-vertical .n2-active{top:-100%;}div#n2-ss-6 .nextend-arrow-animated-vertical:HOVER > div{top:100%;}div#n2-ss-6 .nextend-arrow-animated-vertical:HOVER .n2-active{top:0;}div#n2-ss-6 .nextend-thumbnail-default,div#n2-ss-6 .nextend-thumbnail-inner{overflow:hidden;}div#n2-ss-6 .n2-ss-thumb-image{display:flex;flex:0 0 auto;align-items:center;justify-content:center;background-position:center center;background-size:cover;}div#n2-ss-6 .nextend-thumbnail-inner{width:100%;height:100%;}div#n2-ss-6 .nextend-thumbnail-button{position:absolute;z-index:2;transition:all 0.4s;opacity:0;cursor:pointer;}div#n2-ss-6 .nextend-thumbnail-vertical .nextend-thumbnail-button{left:50%;margin-left:-13px !important;}div#n2-ss-6 .nextend-thumbnail-vertical .nextend-thumbnail-previous{top:-26px;}div#n2-ss-6 .nextend-thumbnail-vertical .nextend-thumbnail-previous.n2-active{top:10px;opacity:1;}div#n2-ss-6 .nextend-thumbnail-vertical .nextend-thumbnail-next{bottom:-26px;}div#n2-ss-6 .nextend-thumbnail-vertical .nextend-thumbnail-next.n2-active{bottom:10px;opacity:1;}div#n2-ss-6 .nextend-thumbnail-horizontal .nextend-thumbnail-button{top:50%;margin-top:-13px !important;transform:rotateZ(-90deg);}div#n2-ss-6 .nextend-thumbnail-horizontal .nextend-thumbnail-previous{left:-26px;}div#n2-ss-6 .nextend-thumbnail-horizontal .nextend-thumbnail-previous.n2-active{left:10px;opacity:1;}div#n2-ss-6 .nextend-thumbnail-horizontal .nextend-thumbnail-next{right:-26px;}div#n2-ss-6 .nextend-thumbnail-horizontal .nextend-thumbnail-next.n2-active{right:10px;opacity:1;}div#n2-ss-6 .nextend-thumbnail-default .nextend-thumbnail-scroller{position:relative;box-sizing:border-box !important;white-space:nowrap;display:flex;flex-direction:column;}div#n2-ss-6 .nextend-thumbnail-horizontal .nextend-thumbnail-scroller{flex-direction:column;}div#n2-ss-6 .nextend-thumbnail-vertical .nextend-thumbnail-scroller{flex-direction:row;}div#n2-ss-6 .nextend-thumbnail-scroller.n2-align-content-start .nextend-thumbnail-scroller-group{justify-content:flex-start;}div#n2-ss-6 .nextend-thumbnail-scroller.n2-align-content-center .nextend-thumbnail-scroller-group{justify-content:center;}div#n2-ss-6 .nextend-thumbnail-scroller.n2-align-content-end .nextend-thumbnail-scroller-group{justify-content:flex-end;}div#n2-ss-6 .nextend-thumbnail-scroller.n2-align-content-space-around .nextend-thumbnail-scroller-group{justify-content:space-around;}div#n2-ss-6 .nextend-thumbnail-scroller.n2-align-content-space-between .nextend-thumbnail-scroller-group{justify-content:space-between;}html[dir="rtl"] div#n2-ss-6 .nextend-thumbnail-default .nextend-thumbnail-scroller{position:relative;float:right;}div#n2-ss-6 .nextend-thumbnail-scroller-group{display:flex;flex-flow:column;}div#n2-ss-6 .nextend-thumbnail-horizontal .nextend-thumbnail-scroller-group{display:flex;flex-flow:row;}div#n2-ss-6 .nextend-thumbnail-default .nextend-thumbnail-scroller .nextend-thumbnail-scroller-group > div{display:flex;position:relative;flex:0 0 auto;box-sizing:content-box !important;cursor:pointer;overflow:hidden;}div#n2-ss-6 .nextend-thumbnail-horizontal .nextend-thumbnail-scroller .nextend-thumbnail-scroller-group > div{flex-flow:column;}div#n2-ss-6 .nextend-thumbnail-default .nextend-thumbnail-scroller .nextend-thumbnail-scroller-group > div.n2-active{cursor:default;}div#n2-ss-6 .nextend-thumbnail-default .n2-ss-caption{display:inline-block;white-space:normal;box-sizing:border-box !important;overflow:hidden;}div#n2-ss-6 .nextend-thumbnail-default .n2-caption-overlay{position:absolute;}div#n2-ss-6 .nextend-thumbnail-default .n2-caption-overlay div{float:left;clear:left;}div#n2-ss-6 .nextend-thumbnail-horizontal .n2-ss-caption{display:block;}div#n2-ss-6 .nextend-thumbnail-vertical .n2-caption-after,div#n2-ss-6 .nextend-thumbnail-vertical .n2-caption-before{height:100%;}div#n2-ss-6 .n2-ss-layer .n2-font-1009-hover{font-family: 'Roboto','Arial';color: #ffffff;font-size:225%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-6 .n2-ss-layer .n2-font-1009-hover:HOVER, div#n2-ss-6 .n2-ss-layer .n2-font-1009-hover:ACTIVE, div#n2-ss-6 .n2-ss-layer .n2-font-1009-hover:FOCUS{@tab1}div#n2-ss-6 .n2-style-f5810e7e6bc86b3324e295624d8dc111-heading{background: #000000;background: RGBA(0,0,0,0.5);opacity:1;padding:0px 05px 0px 05px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-6 .n2-ss-layer .n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph{font-family: 'Roboto','Arial';color: #282828;font-size:87.5%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-6 .n2-ss-layer .n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph a, div#n2-ss-6 .n2-ss-layer .n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph a:FOCUS{font-family: 'Roboto','Arial';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-6 .n2-ss-layer .n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph a:HOVER, div#n2-ss-6 .n2-ss-layer .n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph a:ACTIVE{font-family: 'Roboto','Arial';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-6 .n2-style-8b01a5ee45508f11f09725a9cd85e5fc-heading{background: #ffffff;background: RGBA(255,255,255,0.8);opacity:1;padding:0px 05px 0px 05px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-6 .n2-style-8c39bd1b5d1c821102353bb13550e669-simple{background: #242424;opacity:1;padding:3px 3px 3px 3px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-6 .n2-style-0d7e6147d938756e488febb9fea88b5d-dot{background: #000000;background: RGBA(0,0,0,0);opacity:1;padding:0px 0px 0px 0px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #ffffff; border-color: RGBA(255,255,255,0);border-radius:0px;opacity: 0.4;
+margin: 3px;
+transition: all 0.4s;
+background-size: cover;}div#n2-ss-6 .n2-style-0d7e6147d938756e488febb9fea88b5d-dot.n2-active, div#n2-ss-6 .n2-style-0d7e6147d938756e488febb9fea88b5d-dot:HOVER{border-width: 0px;border-style: solid;border-color: #ffffff; border-color: RGBA(255,255,255,0.8);opacity: 1;}</style><div id="n2-ss-6-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-6" data-creator="Smart Slider 3" class="n2-ss-slider n2-ow n2-has-hover n2notransition  n2-ss-load-fade " data-minFontSizedesktopPortrait="4" data-minFontSizedesktopLandscape="4" data-minFontSizetabletPortrait="4" data-minFontSizetabletLandscape="4" data-minFontSizemobilePortrait="4" data-minFontSizemobileLandscape="4" style="font-size: 16px;" data-fontsize="16">
+        <div class="n2-ss-slider-1 n2-ss-swipe-element n2-ow" style="">
+                        <div class="n2-ss-slider-2 n2-ow">
+                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds"></div><div data-first="1" data-slide-duration="0" data-id="46" data-thumbnail="https://chaletscaviar.damienvalade.fr/wp-content/uploads/resized/690b567805e2d5b0eb782520660f058e/Chalet-lorme.jpg" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-46"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><img data-hash="13c3eb971ea085a6c27fdf4cae5481f4" data-desktop="//chaletscaviar.damienvalade.fr/wp-content/uploads/resized/227ee56da11c2eff88eae410c8f9b89f/Chalet-lorme.jpg" data-blur="0" data-opacity="100" data-x="50" data-y="50" src="//chaletscaviar.damienvalade.fr/wp-content/uploads/resized/227ee56da11c2eff88eae410c8f9b89f/Chalet-lorme.jpg" alt="Le chêne" /></div><div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style=""><div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow" style="padding:0.625em 0.625em 0.625em 0.625em ;" data-verticalalign="center"><div class="n2-ss-layer n2-ow" style="margin:0.3125em 0.3125em 0.3125em 0.3125em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="5|*|5|*|5|*|5|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div id="n2-ss-6item1" class="n2-font-1009-hover n2-style-f5810e7e6bc86b3324e295624d8dc111-heading   n2-ow" style="display:inline-block;">L'orme</div></div><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="center" data-desktopportraitselfalign="center" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ow n2-ow-all n2-ss-desktop n2-ss-mobile n2-ss-tablet"><p class="n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph  n2-style-8b01a5ee45508f11f09725a9cd85e5fc-heading  n2-ow">Le chalet l'orme</p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="49" data-thumbnail="https://chaletscaviar.damienvalade.fr/wp-content/uploads/resized/181b55fd52e538a4f64fe7a5266f9b4f/Chambre-2.jpg" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-49"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><img data-hash="4b4289c784a6f6e1094b7d208bc3cf90" data-desktop="//chaletscaviar.damienvalade.fr/wp-content/uploads/resized/bdc77d5d8f70287a3e87675d949fc22b/Chambre-2.jpg" data-blur="0" data-opacity="100" data-x="50" data-y="50" src="//chaletscaviar.damienvalade.fr/wp-content/uploads/resized/bdc77d5d8f70287a3e87675d949fc22b/Chambre-2.jpg" alt="Le chêne" /></div><div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style=""><div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow" style="padding:0.625em 0.625em 0.625em 0.625em ;" data-verticalalign="center"><div class="n2-ss-layer n2-ow" style="margin:0.3125em 0.3125em 0.3125em 0.3125em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="5|*|5|*|5|*|5|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div id="n2-ss-6item3" class="n2-font-1009-hover n2-style-f5810e7e6bc86b3324e295624d8dc111-heading   n2-ow" style="display:inline-block;">L'orme</div></div><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="center" data-desktopportraitselfalign="center" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ow n2-ow-all n2-ss-desktop n2-ss-mobile n2-ss-tablet"><p class="n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph  n2-style-8b01a5ee45508f11f09725a9cd85e5fc-heading  n2-ow">Chambre</p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="48" data-thumbnail="https://chaletscaviar.damienvalade.fr/wp-content/uploads/resized/1431086d7c245728b7507395dda5ca4b/Sale-de-bain.jpg" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-48"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><img data-hash="e510a0554241a976fe8ea487bcb9ae60" data-desktop="//chaletscaviar.damienvalade.fr/wp-content/uploads/resized/9439bac97493069ca8083d1383e86346/Sale-de-bain.jpg" data-blur="0" data-opacity="100" data-x="50" data-y="50" src="//chaletscaviar.damienvalade.fr/wp-content/uploads/resized/9439bac97493069ca8083d1383e86346/Sale-de-bain.jpg" alt="Le chêne" /></div><div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style=""><div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow" style="padding:0.625em 0.625em 0.625em 0.625em ;" data-verticalalign="center"><div class="n2-ss-layer n2-ow" style="margin:0.3125em 0.3125em 0.3125em 0.3125em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="5|*|5|*|5|*|5|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div id="n2-ss-6item5" class="n2-font-1009-hover n2-style-f5810e7e6bc86b3324e295624d8dc111-heading   n2-ow" style="display:inline-block;">L'orme</div></div><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="center" data-desktopportraitselfalign="center" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ow n2-ow-all n2-ss-desktop n2-ss-mobile n2-ss-tablet"><p class="n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph  n2-style-8b01a5ee45508f11f09725a9cd85e5fc-heading  n2-ow">Salle de bain</p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="47" data-thumbnail="https://chaletscaviar.damienvalade.fr/wp-content/uploads/resized/dea47771b80e2b006ebafc7c02e72421/Salon-2.jpg" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-47"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><img data-hash="80b4cab1b28e15953fb1ab29011b9e56" data-desktop="//chaletscaviar.damienvalade.fr/wp-content/uploads/resized/d90e4ab2ab3b4a13749edac4cdfa85e8/Salon-2.jpg" data-blur="0" data-opacity="100" data-x="50" data-y="50" src="//chaletscaviar.damienvalade.fr/wp-content/uploads/resized/d90e4ab2ab3b4a13749edac4cdfa85e8/Salon-2.jpg" alt="Le chêne" /></div><div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style=""><div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-section-main-content n2-ss-layer-content n2-ow" style="padding:0.625em 0.625em 0.625em 0.625em ;" data-verticalalign="center"><div class="n2-ss-layer n2-ow" style="margin:0.3125em 0.3125em 0.3125em 0.3125em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="5|*|5|*|5|*|5|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div id="n2-ss-6item7" class="n2-font-1009-hover n2-style-f5810e7e6bc86b3324e295624d8dc111-heading   n2-ow" style="display:inline-block;">L'orme</div></div><div class="n2-ss-layer n2-ow" style="margin:0em 0em 0em 0em ;overflow:visible;" data-pm="normal" data-desktopportraitmargin="0|*|0|*|0|*|0|*|px+" data-desktopportraitheight="0" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="center" data-desktopportraitselfalign="center" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ow n2-ow-all n2-ss-desktop n2-ss-mobile n2-ss-tablet"><p class="n2-font-63bee6c1e456a82d9aa419851cf1371b-paragraph  n2-style-8b01a5ee45508f11f09725a9cd85e5fc-heading  n2-ow">Salon</p>
+</div></div></div></div></div></div>                </div>
+            </div>
+            <div data-ssleft="0+15" data-sstop="height/2-previousheight/2" id="n2-ss-6-arrow-previous" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-arrow n2-ow nextend-arrow-previous  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="Previous slide" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuNDMzIDE1Ljk5MkwyMi42OSA1LjcxMmMuMzkzLS4zOS4zOTMtMS4wMyAwLTEuNDItLjM5My0uMzktMS4wMy0uMzktMS40MjMgMGwtMTEuOTggMTAuOTRjLS4yMS4yMS0uMy40OS0uMjg1Ljc2LS4wMTUuMjguMDc1LjU2LjI4NC43N2wxMS45OCAxMC45NGMuMzkzLjM5IDEuMDMuMzkgMS40MjQgMCAuMzkzLS40LjM5My0xLjAzIDAtMS40MmwtMTEuMjU3LTEwLjI5IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="previous arrow" /></div>
+<div data-ssright="0+15" data-sstop="height/2-nextheight/2" id="n2-ss-6-arrow-next" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-arrow n2-ow nextend-arrow-next  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="Next slide" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAuNzIyIDQuMjkzYy0uMzk0LS4zOS0xLjAzMi0uMzktMS40MjcgMC0uMzkzLjM5LS4zOTMgMS4wMyAwIDEuNDJsMTEuMjgzIDEwLjI4LTExLjI4MyAxMC4yOWMtLjM5My4zOS0uMzkzIDEuMDIgMCAxLjQyLjM5NS4zOSAxLjAzMy4zOSAxLjQyNyAwbDEyLjAwNy0xMC45NGMuMjEtLjIxLjMtLjQ5LjI4NC0uNzcuMDE0LS4yNy0uMDc2LS41NS0uMjg2LS43NkwxMC43MiA0LjI5M3oiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+" alt="next arrow" /></div>
+        </div>
+        <div data-position="below" data-offset="0" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-thumbnail nextend-thumbnail-default n2-ow nextend-thumbnail-horizontal" style="margin-top:0px;width:100%;"><img class="nextend-thumbnail-button nextend-thumbnail-previous n2-ow" style="width:26px;margin-top:-13px!important;" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIgZmlsbD0iI2ZmZiIvPgogICAgPC9nPgo8L3N2Zz4=" alt="previous arrow" /><img class="nextend-thumbnail-button nextend-thumbnail-next n2-ow n2-active" style="width:26px;margin-top:-13px!important;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyLjU2NSAxNi44MjJjLjEyNi4xMi4yNy4xODIuNDM2LjE4Mi4xNjggMCAuMzEtLjA2LjQzLS4xODJsNC4zOC00LjE3NWMuMTI4LS4xMi4xOS0uMjYyLjE5LS40MjQgMC0uMTYtLjA2Mi0uMzAyLS4xOS0uNDIzbC0uNjUtLjYyMmMtLjEyNS0uMTItLjI3Mi0uMTgyLS40NC0uMTgyLS4xNyAwLS4zMTQuMDYtLjQzNi4xODJsLTMuMzE0IDMuMTYtMy4yNS0zLjE2Yy0uMTI2LS4xMi0uMjctLjE4Mi0uNDMtLjE4Mi0uMTY2IDAtLjMxLjA2LS40MzUuMTgybC0uNjYyLjYyMmMtLjEyNi4xMi0uMTkuMjYyLS4xOS40MjMgMCAuMTYyLjA2NC4zMDMuMTkuNDI0bDQuMzczIDQuMTc1eiIvPgogICAgPC9nPgo8L3N2Zz4=" alt="next arrow" /><div class="nextend-thumbnail-inner n2-ow"><div class="n2-style-8c39bd1b5d1c821102353bb13550e669-simple nextend-thumbnail-scroller n2-ow n2-align-content-start"></div></div></div>
+</div><div class="n2-clear"></div><div id="n2-ss-6-spinner" style="display: none;"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div id="n2-ss-6-placeholder" style="position: relative;z-index:2;background-color:RGBA(0,0,0,0);max-height:3000px; background-color:RGBA(255,255,255,0);"><img style="width: 100%; max-width:3000px; display: block;opacity:0;margin:0px;" class="n2-ow" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTAwIiA+PC9zdmc+" alt="Slider" /></div></div>		</div>
+				</div>
+				<div data-id="0d9081e" class="elementor-element elementor-element-0d9081e elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</div>
+				<section data-id="2e4e7eb" class="elementor-element elementor-element-2e4e7eb elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="daf7af6" class="elementor-element elementor-element-daf7af6 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3371e6e" class="elementor-element elementor-element-3371e6e elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Le logement</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="20f8ed5" class="elementor-element elementor-element-20f8ed5 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="78a1851" class="elementor-element elementor-element-78a1851 elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Type de logement : Villa - Maison individuelle</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Surface : 145 m²</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Etage : RDC + 1 étage</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Capacité : 6</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Chambres : 3</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="2c91b04" class="elementor-element elementor-element-2c91b04 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7dacada" class="elementor-element elementor-element-7dacada elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Lit(s) simple : 2</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Lit(s) double : 2</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Canapé(s) lit : 1</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Salle(s) de bain : 2</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Sanitaire(s) : 2</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="75c0eea" class="elementor-element elementor-element-75c0eea elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="c0c11fd" class="elementor-element elementor-element-c0c11fd elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="008ca4a" class="elementor-element elementor-element-008ca4a elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Prestation</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="fd21d49" class="elementor-element elementor-element-fd21d49 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="f7d3edf" class="elementor-element elementor-element-f7d3edf elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Jeux enfants</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Parking privée</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Climatisation</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Balcon</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="d389b03" class="elementor-element elementor-element-d389b03 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="f071fe6" class="elementor-element elementor-element-f071fe6 elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Jardin</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Chauffage électrique</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Local à skis</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Térasse</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="6029c10" class="elementor-element elementor-element-6029c10 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="a444e1a" class="elementor-element elementor-element-a444e1a elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="dc23335" class="elementor-element elementor-element-dc23335 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Prestation</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="6a60239" class="elementor-element elementor-element-6a60239 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="b76689d" class="elementor-element elementor-element-b76689d elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Jeux enfants</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Parking privée</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Climatisation</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Balcon</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="09b5236" class="elementor-element elementor-element-09b5236 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="1b181a0" class="elementor-element elementor-element-1b181a0 elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Jardin</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Chauffage électrique</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Local à skis</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Térasse</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="93f2a8d" class="elementor-element elementor-element-93f2a8d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="a1f7cb7" class="elementor-element elementor-element-a1f7cb7 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="29ef764" class="elementor-element elementor-element-29ef764 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Services</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="609c1aa" class="elementor-element elementor-element-609c1aa elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="d6260d3" class="elementor-element elementor-element-d6260d3 elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Draps fournis</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Ménage(70€)</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Kit Bébé</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="91593dd" class="elementor-element elementor-element-91593dd elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="e90609c" class="elementor-element elementor-element-e90609c elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Linge de maison fourni</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Pack Vacances (Draps - Housses de couette - Taies Kit de bain - Tapis de bain - Torchons - Ménage fin de séjour)</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="58bf881" class="elementor-element elementor-element-58bf881 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="910501a" class="elementor-element elementor-element-910501a elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3fc01fb" class="elementor-element elementor-element-3fc01fb elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Équipements</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="48cdb2c" class="elementor-element elementor-element-48cdb2c elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3385745" class="elementor-element elementor-element-3385745 elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Barbecue</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Lave-linge</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Télévision</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Séche Linge</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Hi-Fi</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Machine à raclette</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Congélateur</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="5092f6f" class="elementor-element elementor-element-5092f6f elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="0e08c3d" class="elementor-element elementor-element-0e08c3d elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Four</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Lave-vaisselle</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Micro-onde</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Internet WIFI</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Récepteur satellite</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Radio</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="be7833f" class="elementor-element elementor-element-be7833f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="1f4d775" class="elementor-element elementor-element-1f4d775 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="e606db0" class="elementor-element elementor-element-e606db0 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Autres</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="e1e4f54" class="elementor-element elementor-element-e1e4f54 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3e97798" class="elementor-element elementor-element-3e97798 elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-angle-right" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">Animaux refusés</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="c60d7b2" class="elementor-element elementor-element-c60d7b2 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="9b93bee" class="elementor-element elementor-element-9b93bee elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="5aca5de" class="elementor-element elementor-element-5aca5de elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="d80b085" class="elementor-element elementor-element-d80b085 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div data-id="1ea66d5" class="elementor-element elementor-element-1ea66d5 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Disponibilité</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div data-id="3b4a56b" class="elementor-element elementor-element-3b4a56b elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><center>		<script>
+			var wpdevartBooking1 = {
+				booking_id : 1,
+				hours_enabled : 0,
+				booking_widget : 0,
+				show_day_info_on_hover : 1,
+				cal_animation_type : '',
+				booking_widget : 0,
+				total : 'Total',
+				price : 'Price',
+				offset : 0,
+				position : 'after',
+				night : 0,
+				id : 4,
+				min : 1,
+				max : 1000,
+				min_hour : 1,
+				max_hour : 1000,
+				capcha_error : 'Was not verified by recaptcha',
+				conditions : '{"count":[""],"type":["percent"],"percent":[""]}',
+				hours_conditions : '{"count":[""],"type":["percent"],"percent":[""]}',
+				hide_price : 0,
+				max_item : ""
+			};
+		</script>
+		<div id='booking_calendar_main_container_1' class='booking_calendar_main_container   show_day_info_on_hover ' data-total='Total' data-price='Price' data-offset='0' data-position='after' data-night='0' data-id='4' data-booking_id='1'><div class='booking_calendar_container' id='booking_calendar_container_1'><div class='wpdevart-load-overlay'><div class='wpdevart-load-image'><i class='fa fa-spinner fa-spin'></i></div></div><div class='error_text_container error_days div-for-clear'><span class='error_text'>There are no services available for the period you selected.</span><span class='notice_text_close'><i class='fa fa-close'></i></span></div><div class='error_text_container error_night div-for-clear'><span class='error_text'>You must select at least two days</span><span class='notice_text_close'><i class='fa fa-close'></i></span></div><div class='error_text_container error_min_day div-for-clear'><span class='error_text'>You must select at least [min] days</span><span class='notice_text_close'><i class='fa fa-close'></i></span></div><div class='error_text_container error_max_day div-for-clear'><span class='error_text'>You must select lower than [max] days</span><span class='notice_text_close'><i class='fa fa-close'></i></span></div><div class='error_text_container error_min_hour div-for-clear'><span class='error_text'>You must select at least [min] hours</span><span class='notice_text_close'><i class='fa fa-close'></i></span></div><div class='error_text_container error_max_hour div-for-clear'><span class='error_text'>You must select lower than [max] hours</span><span class='notice_text_close'><i class='fa fa-close'></i></span></div><div class='booking_calendar_main'><div class="wpda-booking-calendar-head "><div class="wpda-previous"><a href="?date=2019-05" rel="nofollow, noindex" class="wpdevart_link"><span><</span><span class="wpda-month-name"> Mai </span></a></div><div class="current-date-info"><a href="?date=2018-06" rel="nofollow, noindex" class="wpdevart_link prev_year_info"><</a><span class="wpda-current-year">2019</span><a href="?date=2020-06-01" rel="nofollow, noindex" class="wpdevart_link next_year_info">></a>&nbsp;<span class="wpda-current-month">Juin</span></div><div class="wpda-next"><a href="?date=2019-07-01" rel="nofollow, noindex" class="wpdevart_link"><span class="wpda-month-name"> Jul </span><span>></span></a></div></div><div class="wpdevart-calendar-container div-for-clear"><div data-date="" data-dateformat="01/01/1970" data-currency="&#36;"  class="week-day-name week-start"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Lundi</div></div></div><div data-date="" data-dateformat="01/01/1970" data-currency="&#36;"  class="week-day-name"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Mardi</div></div></div><div data-date="" data-dateformat="01/01/1970" data-currency="&#36;"  class="week-day-name"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Mercredi</div></div></div><div data-date="" data-dateformat="01/01/1970" data-currency="&#36;"  class="week-day-name"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Jeudi</div></div></div><div data-date="" data-dateformat="01/01/1970" data-currency="&#36;"  class="week-day-name"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Vendredi</div></div></div><div data-date="" data-dateformat="01/01/1970" data-currency="&#36;"  class="week-day-name"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Samedi</div></div></div><div data-date="" data-dateformat="01/01/1970" data-currency="&#36;"  class="week-day-name"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Dimanche</div></div></div><div data-date="2019-05-27" data-dateformat="05/27/2019" data-currency="&#36;"  class="past-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Mai 27</div></div></div><div data-date="2019-05-28" data-dateformat="05/28/2019" data-currency="&#36;"  class="past-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Mai 28</div></div></div><div data-date="2019-05-29" data-dateformat="05/29/2019" data-currency="&#36;"  class="past-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Mai 29</div></div></div><div data-date="2019-05-30" data-dateformat="05/30/2019" data-currency="&#36;"  class="past-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Mai 30</div></div></div><div data-date="2019-05-31" data-dateformat="05/31/2019" data-currency="&#36;"  class="past-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">Mai 31</div></div></div><div data-date="2019-06-01" data-dateformat="06/01/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">1</div></div></div><div data-date="2019-06-02" data-dateformat="06/02/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">2</div></div></div><div data-date="2019-06-03" data-dateformat="06/03/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">3</div></div></div><div data-date="2019-06-04" data-dateformat="06/04/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">4</div></div></div><div data-date="2019-06-05" data-dateformat="06/05/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">5</div></div></div><div data-date="2019-06-06" data-dateformat="06/06/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">6</div></div></div><div data-date="2019-06-07" data-dateformat="06/07/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">7</div></div></div><div data-date="2019-06-08" data-dateformat="06/08/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">8</div></div></div><div data-date="2019-06-09" data-dateformat="06/09/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">9</div></div></div><div data-date="2019-06-10" data-dateformat="06/10/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">10</div></div></div><div data-date="2019-06-11" data-dateformat="06/11/2019" data-currency="&#36;"  class="current-month-day wpdevart-day past-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">11</div></div></div><div data-date="2019-06-12" data-dateformat="06/12/2019" data-currency="&#36;"  class="current-month-day wpdevart-day current-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">12</div></div></div><div data-date="2019-06-13" data-dateformat="06/13/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">13</div></div></div><div data-date="2019-06-14" data-dateformat="06/14/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">14</div></div></div><div data-date="2019-06-15" data-dateformat="06/15/2019" data-currency="&#36;"  class="current-month-day wpdevart-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">15</div></div></div><div data-date="2019-06-16" data-dateformat="06/16/2019" data-currency="&#36;"  class="current-month-day wpdevart-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">16</div></div></div><div data-date="2019-06-17" data-dateformat="06/17/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">17</div></div></div><div data-date="2019-06-18" data-dateformat="06/18/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">18</div></div></div><div data-date="2019-06-19" data-dateformat="06/19/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">19</div></div></div><div data-date="2019-06-20" data-dateformat="06/20/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">20</div></div></div><div data-date="2019-06-21" data-dateformat="06/21/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">21</div></div></div><div data-date="2019-06-22" data-dateformat="06/22/2019" data-currency="&#36;"  class="current-month-day wpdevart-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">22</div></div></div><div data-date="2019-06-23" data-dateformat="06/23/2019" data-currency="&#36;"  class="current-month-day wpdevart-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">23</div></div></div><div data-date="2019-06-24" data-dateformat="06/24/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">24</div></div></div><div data-date="2019-06-25" data-dateformat="06/25/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">25</div></div></div><div data-date="2019-06-26" data-dateformat="06/26/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">26</div></div></div><div data-date="2019-06-27" data-dateformat="06/27/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">27</div></div></div><div data-date="2019-06-28" data-dateformat="06/28/2019" data-currency="&#36;"  class="current-month-day wpdevart-day available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">28</div></div></div><div data-date="2019-06-29" data-dateformat="06/29/2019" data-currency="&#36;"  class="current-month-day wpdevart-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">29</div></div></div><div data-date="2019-06-30" data-dateformat="06/30/2019" data-currency="&#36;"  class="current-month-day wpdevart-day weekend available-day"><div class="wpda-day-header div-for-clear"><div class="wpda-day-number">30</div></div></div></div><div class="wpdevart-hours-container"><div class="wpdevart-hours-overlay"><div class="wpdevart-load-image"><i class="fa fa-spinner fa-spin"></i></div></div><div class="wpdevart-hours"></div></div><div class="wpdevart-booking-legends div-for-clear"><div class="wpdevart-legends-available"><div class="legend-text"><span class="legend-div"></span>-Disponible</div></div><div class="wpdevart-legends-pending"><div class="legend-text"><span class="legend-div"></span>-Réservé</div></div><div class="wpdevart-legends-unavailable"><div class="legend-text"><span class="legend-div"></span>-Indisponible</div></div></div></div></div><div class="wpdevart-booking-form-container " id="wpdevart_booking_form_1"><div class="wpdevart-booking-form"><form method="post" class="div-for-clear"><div class="wpdevart-check-section"><div class="wpdevart-fild-item-container ">
+				  <div class="wpdevart-fild-item-container">
+							<label for="wpdevart_form_checkin1" class='wpdevart_form_checkin'>Check in</label><div class="wpdevart-elem-container div-for-clear" id="wpdevart_wrap_form_checkin1">
+				  <input type="text" id="wpdevart_form_checkin1" name="wpdevart_form_checkin1"  class='wpdevart_form_checkin' readonly value=''>
+			    </div>
+		     </div></div>
+				  <div class="wpdevart-fild-item-container "><div class="wpdevart-fild-item-container">
+							<label for="wpdevart_form_checkout1" class='wpdevart_form_checkout'>Check out</label><div class="wpdevart-elem-container div-for-clear" id="wpdevart_wrap_form_checkout1">
+				  <input type="text" id="wpdevart_form_checkout1" name="wpdevart_form_checkout1"  class='wpdevart_form_checkout' readonly value=''>
+			    </div>
+		     </div></div><div class="wpdevart-fild-item-container">
+								<label for="wpdevart_count_item1">Item count</label><div class="wpdevart-elem-container div-for-clear" id="wpdevart_wrap_count_item1"><select id="wpdevart_count_item1" name="wpdevart_count_item1"onchange="change_count(this,1,'after','&#36;')" class="wpdevart_count_item"></select>
+					</div>
+				 </div></div><input type="hidden" class="wpdevart_extra_price_value" id="wpdevart_extra_price_value1" name="wpdevart_extra_price_value1" value=""><input type="hidden" class="wpdevart_total_price_value" id="wpdevart_total_price_value1" name="wpdevart_total_price_value1" value=""><input type="hidden" class="wpdevart_price_value" id="wpdevart_price_value1" name="wpdevart_price_value1" value=""><input type="hidden" name="id" value="1"><input type="hidden" name="task" value="save"></form></div></div></div></center></div>
+				</div>
+				</div>
+				<div data-id="5114353" class="elementor-element elementor-element-5114353 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="fc4b441" class="elementor-element elementor-element-fc4b441 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="90e8d42" class="elementor-element elementor-element-90e8d42 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div data-id="43ce4ca" class="elementor-element elementor-element-43ce4ca elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Informations</h2>		</div>
+				</div>
+				<div data-id="567d4b4" class="elementor-element elementor-element-567d4b4 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>La location se fait par téléphone ou par mail cliquez sur le bouton en dessous.</p></div>
+				</div>
+				</div>
+				<div data-id="d512d7c" class="elementor-element elementor-element-d512d7c elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://chaletscaviar.damienvalade.fr/nous-contacter/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Nous contacter</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</div>
+				<section data-id="16f632d" class="elementor-element elementor-element-16f632d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="06ae623" class="elementor-element elementor-element-06ae623 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="51fd493" class="elementor-element elementor-element-51fd493 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div data-id="c97036f" class="elementor-element elementor-element-c97036f elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Localisation</h2>		</div>
+				</div>
+				<div data-id="a807cee" class="elementor-element elementor-element-a807cee elementor-widget elementor-widget-google_maps" data-element_type="google_maps.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-custom-embed"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=25%20Rue%20de%20Bellec%C3%B4te%2073120%20Saint-Bon-Tarentaise&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" aria-label="25 Rue de Bellecôte 73120 Saint-Bon-Tarentaise"></iframe></div>		</div>
+				</div>
+				<div data-id="56b0651" class="elementor-element elementor-element-56b0651 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</main>
+						</div>
+			</div>
+		</div>
+			<div class="clear"></div>
+	<div id="footer">
+			<div id="footer-wrap">
+			<div id="footer-box" class="footer-v4">
+	<div class="sidebar-footer">
+		<div>
+					</div>
+	</div>
+	<div class="sidebar-footer">
+		<div>
+			<div id="text-4" class="footer-widget-col widget_text"><h4>Contact</h4>			<div class="textwidget"><p>Chalets et Caviar</p>
+<p>14 rue Roquefort<br />
+73120 Courchevel<br />
+France<br />
+Téléphone : 06.01.01.01.01</p>
+</div>
+		</div>		</div>
+	</div>
+	<div class="sidebar-footer">
+		<div>	
+			<div id="nav_menu-7" class="footer-widget-col widget_nav_menu"><h4>Menu</h4><div class="menu-footer-m-container"><ul id="menu-footer-m" class="menu"><li id="menu-item-472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-472"><a href="https://chaletscaviar.damienvalade.fr/">Accueil</a></li>
+<li id="menu-item-470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="https://chaletscaviar.damienvalade.fr/location/">Location</a></li>
+<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://chaletscaviar.damienvalade.fr/vente/">Vente</a></li>
+<li id="menu-item-471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-471"><a href="https://chaletscaviar.damienvalade.fr/le-livre-dor/">Le livre d&rsquo;or</a></li>
+<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="https://chaletscaviar.damienvalade.fr/nous-contacter/">Nous contacter</a></li>
+</ul></div></div>		</div>
+	</div>
+	<div class="sidebar-footer lastone">
+		<div>
+					</div>
+	</div>
+</div>		</div><!--footer-wrap-->
+		</div><!--footer-->
+	<div id="copyright">
+	<div class="copyright-wrap">
+		<span class="right"><a href="http://vmthemes.com/seguente/">Seguente Theme</a> powered by <a href="https://wordpress.org/">WordPress</a></span>
+	</div>
+</div><!--copyright--></div><!--grid-container-->
+<a href="#" class="back-to-top"><i class="fa fa-arrow-circle-up"></i></a>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/chaletscaviar.damienvalade.fr\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/seguente-custom.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/unslider.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/jquery.flexslider.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/ideal-image-slider.js?ver=20160115'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/seguente-scrollup.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var php_vars = {"slideshowSpeed":"5000","animationSpeed":"800","sliderHeight":"500","sliderEffect":"fade"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/seguente-ideal-slides.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var php_vars = {"slideshowSpeed":"5000","animationSpeed":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/themes/seguente/js/seguente-slides.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/wp-embed.min.js?ver=590d002e9a5b268fa1acf7199f60a242'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=2.4.5'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=4.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.5","urls":{"assets":"https:\/\/chaletscaviar.damienvalade.fr\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":291,"title":"L'orme","excerpt":"<ul>\r\n<li>Type de logement : Chalet isol\u00e9 de luxe<\/li>\r\n<li>Surface : 70 m\u00b2<\/li>\r\n<li>Etage : RDC + 1 \u00e9tage<\/li>\r\n<li>Capacit\u00e9 : 7<\/li>\r\n<li>Chambres : 2<\/li>\r\n<\/ul>"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chaletscaviar.damienvalade.fr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.4.5'></script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom wp-default" style="color: #fff; background-color: #bdb76b;"><div class="cookie-notice-container"><span id="cn-notice-text">Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site web. Si vous continuez à utiliser ce site, nous supposerons que vous en êtes satisfait.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button wp-default button">Ok</a><a href="https://chaletscaviar.damienvalade.fr/politique-de-confidentialite/" target="_self" id="cn-more-info" class="cn-more-info cn-button wp-default button">Politique de confidentialité</a>
+				</div>
+				
+			</div></body>
+</html>
